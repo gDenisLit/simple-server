@@ -4,7 +4,8 @@
   "description": "testing simple server with express js",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
