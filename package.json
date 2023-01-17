@@ -1,0 +1,24 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "testing simple server with express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gDenisLit/simple-server.git"
+  },
+  "keywords": [
+    "server",
+    "test",
+    "express"
+  ],
+  "author": "Denis Lit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gDenisLit/simple-server/issues"
+  },
+  "homepage": "https://github.com/gDenisLit/simple-server#readme"
+}
